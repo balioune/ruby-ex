@@ -32,7 +32,7 @@ map '/' do
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Welcome to OpenShift</title>
+  <title>Welcome to IT&Ops</title>
 
 
 <style>
@@ -240,6 +240,7 @@ pre {
 <section class='container'>
           <hgroup>
             <h1>Welcome to the Ruby application on IT&Ops PaaS Platform  </h1>
+            <h2> new modification </h2>
           </hgroup>
 
 </section>
